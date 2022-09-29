@@ -1,4 +1,5 @@
-nome = input("Escreva seu nome: ")
-cpf = input("Escreva seu cpf: ")
+nome = input("Digite seu nome: ")
+cpf = input("Digite seu cpf: ")
+idade = input("Digite sua idade: ")
 
-print(nome + cpf)
+print(nome + cpf + idade + " anos.")
