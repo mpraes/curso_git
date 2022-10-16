@@ -9,4 +9,4 @@ if fornecedor in listafornecedores:
 else:
     print("Fornecedor não encontrado, tente novamente ou verifique sua base de dados")
 
-print('Fim da busca')
+print('Fim da busca.')
