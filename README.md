@@ -1,12 +1,12 @@
 ![Linguagem Python no Git](https://www.hok.com.pk/wp-content/uploads/2020/02/Python-Language-990x500.png)
 
-[Bem vindo]() |
-[Conteúdo do Repositório]() |
-[Conteúdos do curso]() |
-[Principais comandos Git]() |
-[Exemplo comando rodar script]() |
-[Exemplo script]() |
-[Minhas Redes]()
+[Bem vindo](#bem-vindo-ao-meu-repositório) |
+[Conteúdo do Repositório](#conteúdos-do-repositório) |
+[Conteúdos do curso](#conteúdos-do-curso) |
+[Principais comandos Git](#quais-são-os-principais-comandos-para-publicar-meu-repositório-local-no-github-em-ordem) |
+[Exemplo comando rodar script](#exemplo-para-rodar-script-python-no-powershell) |
+[Exemplo script](#exemplo-de-um-dos-scripts-python) |
+[Minhas Redes](#minhas-redes)
 
 
 # Bem vindo ao meu repositório.
