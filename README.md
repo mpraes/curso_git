@@ -32,7 +32,7 @@ Neste repositorio estarei incluindo alguns scripts simples de python desenvolvid
 
 **Exemplo para rodar script Python no PowerShell**
 ```
-python C:\Users\LVVE2K631\Documents\git\markdown\calculo_desconto.py
+python C:\Users\PCLocal\Documents\git\markdown\calculo_desconto.py
 ```
 
 **Exemplo de um dos scripts python**
