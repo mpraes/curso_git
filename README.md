@@ -17,5 +17,11 @@ Este repositório é fruto do **curso de git e github** do Matheus Fraga. Nele e
 
 Neste repositorio estarei incluindo alguns scripts simples de python desenvolvidos por mim como pratica.
 
+## Quais são os principais comandos para publicar meu repositório local no Github? Em ordem:
+
+1. git add
+2. git commit -m "mensagem do que foi feito"
+3. git push
+
 ## Minhas Redes
 [Linkedin](https://www.linkedin.com/in/renan-de-moraes-data-analyst-data-engineer/)
