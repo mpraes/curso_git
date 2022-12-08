@@ -4,7 +4,18 @@
 
 Este repositório é fruto do **curso de git e github** do Matheus Fraga. Nele estarei publicando resultado de aprendizado do curso.
 
-## Conteúdos
+## Conteúdos do Repositório
+
+Arquivo | Nome Script
+----------|------------
+calculo_desconto.py | Calcula desconto de um item
+calculo_impostos.py | Calcula principais impostos de item
+calculo_inss.py | Calcula INSS de Remuneração
+compra.py | Registra dados de uma compra
+ 
+
+
+## Conteúdos do curso
 * _Fundamentos do **Git**_ - comandos como repo, add, commit, push, pull, etc.
 
 * _Trabalhando com **Branches**_
