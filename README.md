@@ -25,3 +25,20 @@ Neste repositorio estarei incluindo alguns scripts simples de python desenvolvid
 
 ## Minhas Redes
 [Linkedin](https://www.linkedin.com/in/renan-de-moraes-data-analyst-data-engineer/)
+
+>Obs: Aprendendo o que é **Blockquote**
+>
+>Agora dominando o que é o Markdown
+
+**Exemplo para rodar script Python no PowerShell**
+```
+python C:\Users\LVVE2K631\Documents\git\markdown\calculo_desconto.py
+```
+
+**Exemplo de um dos scripts python**
+```py
+salario = float(input('Digite Seu salário bruto CLT: '))
+inss = float(input('Informe seu percentual de INSS: '))
+valor_inss = salario * inss
+print("O valor de encargo INSS mensal é: " + str(valor_inss)) 
+```
